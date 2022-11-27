@@ -1,0 +1,57 @@
+.card{
+    background-color: orange;
+    box-shadow: 2px 4px 5px #2e2e2e;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.title{
+    color:rgb(20, 20, 153);
+    text-decoration: underline;
+}
+.info{
+    color:black;
+}
+.msuccess{
+    color:green;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.mfail{
+    color:red;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+.foot{
+    width:95%;
+}
+.details-title{
+    text-decoration: underline;
+}
+.details{
+    color:rgb(108, 26, 240)
+}
+.loader{
+    background-color: orangered;
+    text-decoration: line-through;
+}
+
+.right{
+    margin-right:15px;
+    margin-top:10px;
+}
+.foot-img{
+    /* width:100px; */
+    margin-left:10px;
+    box-shadow: 3px 3px 3px #2e2e2e;
+}
+img{
+    width:100px;
+    /* height: fit-content; */
+    height: min-content;
+}
+
